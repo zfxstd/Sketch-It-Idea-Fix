@@ -1,9 +1,9 @@
 # Sketch-It-Idea-Fix
 Fixes Sketch It plugin for Intellij Idea.
 
-Seems like developer has abandoned his project and it contains some major bugs, so i did small for me. 
+Seems like developer has abandoned his project and it contains some major bugs, so i did small fix for me. 
 At the moment i fixed only namespace error, which causing syntax error sometimes in UML file. 
-Im too lazy to upload source code at the moment, and source code was did in 20 min, so it not very good. Im gonna do it maybe later. But in case if someone need - its should work.
+Im too lazy to upload source code at the moment. But in case if someone need - its should work.
 
 If there need at some other fixes - feel free to create issue.
 
